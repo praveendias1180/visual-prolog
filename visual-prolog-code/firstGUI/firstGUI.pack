@@ -1,0 +1,9 @@
+﻿#include @"firstGUI\firstGUI.ph"
+
+% privately used packages
+#include @"pfc\gui\controls\button\button.ph"
+#include @"pfc\gui\gui.ph"
+#include @"pfc\resourceIdentifiers.ph"
+
+% implementations
+#include @"firstGUI\firstGUI.pro"

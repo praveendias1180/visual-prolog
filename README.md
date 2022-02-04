@@ -29,3 +29,7 @@ More books: https://wiki.visual-prolog.com/index.php?title=Category:Books
 ![Logic](logic.png)
 
 ## Page 16: You can find a copy of this book in this repository. (visual-prolog-tyros73.pdf)
+
+# Designing the First GUI
+
+![First GUI](first-gui.png)
