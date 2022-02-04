@@ -19,3 +19,7 @@ More books: https://wiki.visual-prolog.com/index.php?title=Category:Books
 # Book for the Son
 
 ![Book for the son](book-for-the-son.png)
+
+# First Build
+
+![First Build](first-build.png)
