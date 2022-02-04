@@ -5,3 +5,11 @@ Visual Prolog, previously known as PDC Prolog and Turbo Prolog, is a strongly ty
 Visual Prolog contains a compiler which generates x86 machine code. Unlike standard Prolog, programs written in Visual Prolog are statically typed. This allows some errors to be caught at compile-time instead of run-time time.
 
 https://en.wikipedia.org/wiki/Visual_Prolog
+
+![installing-visual-prolog-personal-edition](installing-visual-prolog-personal-edition.png)
+
+# Visual Prolog 7.3 for Tyros
+
+![Tyros](tyros-visual-prolog.png)
+
+You can find a copy of this book in this repository.
