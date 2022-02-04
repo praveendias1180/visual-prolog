@@ -13,3 +13,5 @@ https://en.wikipedia.org/wiki/Visual_Prolog
 ![Tyros](tyros-visual-prolog.png)
 
 You can find a copy of this book in this repository.
+
+More books: https://wiki.visual-prolog.com/index.php?title=Category:Books
