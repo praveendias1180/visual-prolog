@@ -15,3 +15,7 @@ https://en.wikipedia.org/wiki/Visual_Prolog
 You can find a copy of this book in this repository.
 
 More books: https://wiki.visual-prolog.com/index.php?title=Category:Books
+
+# Book for the Son
+
+![Book for the son](book-for-the-son.png)
